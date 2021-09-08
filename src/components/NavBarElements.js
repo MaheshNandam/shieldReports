@@ -1,6 +1,6 @@
 import { Link } from 'gatsby'
 import styled from "styled-components";
-import { DiScala } from 'react-icons/Di'
+import { DiScala } from 'react-icons/di'
 
 export const Main = styled.main`
     padding: 0px;
