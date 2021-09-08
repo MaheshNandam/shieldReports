@@ -1,0 +1,46 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "editor.suggestSelection": "first",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "eslint.validate": ["javascript", "javascriptreact"],
+    "less.lint.duplicateProperties": "warning",
+    "css.lint.duplicateProperties": "warning",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.semanticHighlighting.enabled": false,
+    "multiclip.formatAfterPaste": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.useEditorConfig": false,
+    "prettier.configPath": ".prettierrc",
+    "color-highlight.markRuler": false,
+    "workbench.editor.showTabs": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.preferences.importModuleSpecifier": "shortest",
+    "jest.enableCodeLens": false,
+    "jest.autoRun": "off",
+}

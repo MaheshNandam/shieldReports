@@ -1,0 +1,6 @@
+export * from './IntroBanner'
+export * from './AboutUs'
+export * from './Contact'
+export * from './NavBar'
+export * from './OurServices'
+export * from './Scanners'
